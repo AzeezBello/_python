@@ -1,0 +1,7 @@
+venv
+*.pyc
+.vscode
+_skillsfund
+skillsfund
+.env
+db.sqlite3/*
