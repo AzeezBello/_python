@@ -1,10 +1,13 @@
 venv
 *.pyc
+.ipynb_checkpoints
 .vscode
 _skillsfund
 skillsfund
 makinggames_src
 hackingciphers_src
 CrackingCodesFiles
+jupyter
+class_code
 .env
 db.sqlite3/*

@@ -47,10 +47,11 @@ def add(row):
 
 def select(user):
     with connection.cursor() as cursor:
-        # print(row)
+        # print(user)
         sql = '''SELECT  title, body 
-                 FROM  notes WHERE 
-                username = "{}"'''.format(user.username)
+                FROM  notes WHERE 
+                username = "{}"
+                '''.format(user.username)
 
         cursor.execute(sql)
         return (cursor.fetchall())
