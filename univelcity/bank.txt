@@ -1,0 +1,1 @@
+{'general': [['Azeez', 'Bello', 'M', '07064463926', 'savings', 'azeez@scholarx.co', 'ikorodu'], ['Shayo', 'Feyi', 'f', '00000000', 'savings', 'shayo@gmail.com', 'shayo']]}
